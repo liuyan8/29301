@@ -1,0 +1,8 @@
+print('okosdg')
+print('okosdg')
+print('okosdg')
+print('okosdg')
+print('okosdg')
+print('okosdg')
+print('okosdg')
+print('okosdg')
